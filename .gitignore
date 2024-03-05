@@ -1,0 +1,34 @@
+[Dd]ebuugPublic
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+.vs/
+
+Generated\ Files/
+
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]g.*
+
+# Files build by Visual Studio
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*..iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
